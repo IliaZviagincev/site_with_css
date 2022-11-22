@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.syte-body {
+    margin: 0 303px 228px 298px;
+}
+.menu-bar {
+    padding: 14px 12px 21px 18px;
+    display: flex;
+    flex-direction:row;
+justify-content: flex-start;
+     }
+.growbe {
+    padding: 10px 304px 0 45px;
+    display: flex;
+    flex-direction: row;
+}
+.logo-growbe {
+    padding: 16px 0 24px 14px;
+}
+.growbe-text {
+      padding: 21px 33px 29px 14px;
+      text-decoration: none;
+      font-family: 'Gilroy-Bold';
+      font-size: 24px;
+      line-height: 28px;
+      color: #000000;
+}
+.colorBe {
+    color: #F25822;
+}
+.menu-ref {   
+    padding: 26px 200px 48px 0;
+    font-family: 'Gilroy-SemiBold';
+    font-size: 14px;
+    line-height: 16px;   
+    color: #F25822;
+    
+}
+.top-refer {
+    padding: 11px 14px 12px 9px;
+}
+.top__ref {
+    display: inline;
+    list-style-type: none;
+ }
+ .decor-menu {
+    text-decoration: none;
+ }
+ .decor-menu:hover {
+    color: #F25822;
+ }
+.content-body {
+    padding: 0 27px 0 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.body-left {
+    padding: 15px 0 27px 16px;
+}
+.body-tittle {
+    font-family: 'Gilroy-Bold';
+font-size: 60px;
+line-height: 70px;
+color: #000000;
+padding: 59px 26px 0 41px;
+}
+.text-content {
+padding: 17px 82px 0 41px;
+font-family: 'Gilroy-Medium';
+font-size: 20px;
+line-height: 23px;
+color: #888888;
+
+}
+.button-start {
+    padding: 16px 0 38px 20px;
+    display: flex;
+    flex-direction:row;
+justify-content:flex-start;
+
+}
+.start-btn {
+margin: 21px 0 23px 23px;
+background: #F25822;
+box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+border-radius: 50px;
+font-family: 'Gilroy-Bold';
+font-size: 15px;
+line-height: 18px;
+color: #FFFFFF;
+padding: 15px 36px 16px 35px;
+}
+.watch-video {
+padding: 36px 49px 39px 72px;
+font-family: 'Gilroy-Bold';
+font-size: 15px;
+line-height: 18px;
+text-decoration: none;
+color: #AAAAAA;
+}
+.right-image {
+    padding: 13,71px 109,25px 147,45px 14,94px;
+}
+.bottom-logo {
+    padding: 0 45px 32px 34px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.list-logo {
+  
+}
+.logo-img {
+    list-style-type: none;
+    display: inline;
+    height: 50px;
+    justify-content: space-between;
+
+}
